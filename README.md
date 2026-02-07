@@ -118,12 +118,6 @@ Matplotlib (visualization)
 
 Jupyter Notebook
 
-📌 Project Structure
-├── netflix_data.csv
-├── netflix_notebook.ipynb
-├── images/
-└── README.md
-
 **✅ Conclusion**
 
 This project demonstrates how structured exploratory data analysis can uncover meaningful insights about historical movie trends. By combining statistical summaries, visual storytelling, and business interpretation, the analysis highlights patterns in runtime, genre dominance, and regional production that are relevant for both data analysts and business stakeholders.

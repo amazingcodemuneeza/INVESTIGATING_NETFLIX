@@ -5,6 +5,7 @@ Given the large number of movies and series available on the platform, it provid
 
 In this project, we focus specifically on movies released during the 1990s, exploring patterns related to movie duration, genre distribution, and country of production using the dataset netflix_data.csv.
 
+
 **📊 Dataset Overview**
 
 The dataset used in this project contains information about movies and TV shows available on Netflix.
@@ -27,6 +28,7 @@ Key columns include:
 
 The analysis focuses only on movies released between 1990 and 1999.
 
+
 **📌 Data Source**
 
 The dataset used in this project was obtained from DataCamp as part of a guided project and learning exercise.
@@ -38,6 +40,7 @@ Dataset name: netflix_data.csv
 Description: Contains metadata for movies and TV shows available on Netflix, including release year, duration, genre, and country.
 
 The dataset was used for educational and portfolio purposes only, and the analysis focuses on movies released during the 1990s.
+
 
 **🔍 Objectives of the Analysis**
 
@@ -52,6 +55,7 @@ To identify dominant genres of the period
 To examine country-wise distribution of 1990s movies on Netflix
 
 To translate technical findings into business-relevant insights
+
 
 **📈 Exploratory Data Analysis**
 
@@ -76,29 +80,32 @@ Country-wise movie counts
 All visualizations use a Netflix-inspired red and black theme for consistent and professional presentation.
 
 
+
 **🧠 Key Insights**
 
-🎞️ Most Frequent Movie Duration
+1. 🎞️ Most Frequent Movie Duration
 
 Most 1990s movies on Netflix have a runtime of approximately 90 minutes, indicating a standard feature-length format.
 
-📉 Runtime Trend Across the 1990s
+2. 📉 Runtime Trend Across the 1990s
 
 The average movie duration did not remain stable throughout the decade, showing noticeable variation year by year.
 
-🎭 Genre Dominance
+3. 🎭 Genre Dominance
 
 Action, Drama, and Comedy dominated the 1990s movie catalog, with Action movies appearing most frequently.
 
-💥 Action Movie Runtime Patterns
+4. 💥 Action Movie Runtime Patterns
 
 Action movies tend to be longer, with only 7 Action movies shorter than 90 minutes, suggesting most Action films in the 1990s exceeded 1.5 hours.
 
-🌍 Country-wise Production
+5. 🌍 Country-wise Production
 
 The United States produced the highest number of 1990s movies available on Netflix, followed by India and the United Kingdom, reflecting historical global film production trends.
 
-🏢 Business Implications
+
+
+**🏢 Business Implications**
 
 Content Strategy: Understanding dominant genres and runtimes helps guide content acquisition and licensing strategies.
 
@@ -107,6 +114,7 @@ Recommendation Systems: Runtime and genre patterns can improve personalized reco
 Regional Insights: Country-level analysis supports region-specific content targeting and investment decisions.
 
 User Engagement: Differentiating short vs long movies can optimize viewer engagement for different audience segments.
+
 
 **🛠️ Tools & Technologies Used**
 
@@ -118,9 +126,11 @@ Matplotlib (visualization)
 
 Jupyter Notebook
 
+
 **✅ Conclusion**
 
 This project demonstrates how structured exploratory data analysis can uncover meaningful insights about historical movie trends. By combining statistical summaries, visual storytelling, and business interpretation, the analysis highlights patterns in runtime, genre dominance, and regional production that are relevant for both data analysts and business stakeholders.
+
 
 **📬 Author**
 
